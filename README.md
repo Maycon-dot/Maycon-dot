@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Quality Assurence 
+- 🔭 I’m currently working on Technical Leader Quality Assurance
 - 🌱 I’m currently learning Blockchain
 - ⚡ Fun fact: ...
